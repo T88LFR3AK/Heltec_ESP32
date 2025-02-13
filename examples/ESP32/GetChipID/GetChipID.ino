@@ -1,3 +1,7 @@
+#include <heltec.h>
+
+#include <heltec.h>
+
 /* The true ESP32 chip ID is essentially its MAC address.*/
   
 uint64_t chipId = 0;
